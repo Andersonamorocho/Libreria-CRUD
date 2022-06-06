@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/web/index.html</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/web/WEB-INF/Vistas/clientes.jsp</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/web/WEB-INF/Buscar/SalidaCliente.jsp</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/src/java/util/ConexionJdbc.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/src/java/Controller/formulario.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/web/WEB-INF/Eliminar/SalidaCliente.jsp</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/src/java/Controller/ClienteController.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/src/java/models/dao/LibroDao.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/web/WEB-INF/Crear/SalidaCliente.jsp</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/src/java/models/dao/PrestamoDao.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/web/WEB-INF/Eliminar/EliminarPrestamo.jsp</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/Parcial/src/java/models/dao/ClienteDao.java</file>
+        </group>
+    </open-files>
+</project-private>
